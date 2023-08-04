@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="color_button_pgm">#BA262B</color>
+    <color name="color_bg_refund_top">#EFEFEF</color>
+    <color name="colorWhiteBack">#F3F3F3</color>
+    <color name="background">#EFEFEF</color>
+    <color name="placeholder_grey">#AAADC4</color>
+    <color name="placeholder_grey_20">#33AAADC4</color>
+
+    <color name="profilePrimaryDark">#24E9D6</color>
+    <color name="profileAccentColor">#F7F7F7</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="profileBackground">#fff</color>
+
+</resources>

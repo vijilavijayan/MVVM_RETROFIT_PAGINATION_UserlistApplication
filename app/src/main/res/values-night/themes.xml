@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TestApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+    <style name="CircularProgress" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@color/background</item>
+    </style>
+    //textview font
+    <style name="fontFamilyRegular">
+        <item name="fontFamily">@font/poppins_regular</item>
+    </style>
+    <style name="fontFamilyLight">
+        <item name="fontFamily">@font/poppins_light</item>
+    </style>
+    <style name="fontFamilyMedium">
+        <item name="fontFamily">@font/poppins_medium</item>
+    </style>
+    <style name="fontFamilyBold">
+        <item name="fontFamily">@font/poppins_bold</item>
+    </style>
+</resources>
